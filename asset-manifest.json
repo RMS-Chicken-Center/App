@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.cc43a24d.css",
-    "main.js": "/app/static/js/main.b2e9af0a.js",
+    "main.css": "/app/static/css/main.a7485bd1.css",
+    "main.js": "/app/static/js/main.0d750316.js",
     "static/js/787.c39012cf.chunk.js": "/app/static/js/787.c39012cf.chunk.js",
+    "static/media/Bulk_chicken.png": "/app/static/media/Bulk_chicken.243cca8de628b80382d0.png",
     "static/media/phone.png": "/app/static/media/phone.dfd17635a5d85674faeb.png",
     "static/media/Chicken_image.png": "/app/static/media/Chicken_image.362c3047da2418f84da4.png",
     "static/media/loc.png": "/app/static/media/loc.9b68823582d8b0781297.png",
     "static/media/logo.png": "/app/static/media/logo.33cb379265d4b43e13e6.png",
     "static/media/Hamburger_icon.png": "/app/static/media/Hamburger_icon.364a663785b229127e54.png",
     "index.html": "/app/index.html",
-    "main.cc43a24d.css.map": "/app/static/css/main.cc43a24d.css.map",
-    "main.b2e9af0a.js.map": "/app/static/js/main.b2e9af0a.js.map",
+    "main.a7485bd1.css.map": "/app/static/css/main.a7485bd1.css.map",
+    "main.0d750316.js.map": "/app/static/js/main.0d750316.js.map",
     "787.c39012cf.chunk.js.map": "/app/static/js/787.c39012cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc43a24d.css",
-    "static/js/main.b2e9af0a.js"
+    "static/css/main.a7485bd1.css",
+    "static/js/main.0d750316.js"
   ]
 }
