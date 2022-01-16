@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.ba1b5c33.css",
-    "main.js": "/app/static/js/main.603b5110.js",
+    "main.css": "/app/static/css/main.3429abc1.css",
+    "main.js": "/app/static/js/main.7a0407f8.js",
     "static/js/787.c39012cf.chunk.js": "/app/static/js/787.c39012cf.chunk.js",
     "static/media/Bulk_chicken.png": "/app/static/media/Bulk_chicken.2894ec711ddb6515afb7.png",
     "static/media/phone.png": "/app/static/media/phone.dfd17635a5d85674faeb.png",
@@ -11,12 +11,12 @@
     "static/media/logo.png": "/app/static/media/logo.33cb379265d4b43e13e6.png",
     "static/media/Hamburger_icon.png": "/app/static/media/Hamburger_icon.364a663785b229127e54.png",
     "index.html": "/app/index.html",
-    "main.ba1b5c33.css.map": "/app/static/css/main.ba1b5c33.css.map",
-    "main.603b5110.js.map": "/app/static/js/main.603b5110.js.map",
+    "main.3429abc1.css.map": "/app/static/css/main.3429abc1.css.map",
+    "main.7a0407f8.js.map": "/app/static/js/main.7a0407f8.js.map",
     "787.c39012cf.chunk.js.map": "/app/static/js/787.c39012cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba1b5c33.css",
-    "static/js/main.603b5110.js"
+    "static/css/main.3429abc1.css",
+    "static/js/main.7a0407f8.js"
   ]
 }
